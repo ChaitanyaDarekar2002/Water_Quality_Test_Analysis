@@ -2,8 +2,10 @@
 
 An interactive **Power BI** dashboard that monitors drinking water quality across **12 zones of Indore**, flags unsafe samples against **BIS IS 10500** drinking water limits, and links quality with water supply hours and rainfall.
 
-> 📸 **Dashboard preview:** add a screenshot here  
-> `![Dashboard](images/dashboard.png)`
+> 📸 **Dashboard preview:**
+
+<img width="1907" height="785" alt="image" src="https://github.com/user-attachments/assets/24658c50-b7d2-4d72-b608-dc0a72d3d94c" />
+
 
 ---
 
